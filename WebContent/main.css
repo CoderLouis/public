@@ -1,0 +1,60 @@
+html,body{
+	margin:0;
+	padding:0;
+	height:100%;
+	width:100%;
+}
+body{
+    font-family: Verdana; font-size:12px;word-spacing:1px
+}
+a{
+	color:blue;
+}
+a:hover{
+	text-decoration:none;
+}
+image{
+	border:0px;
+}
+ul{
+	list-style-type:none;
+}
+li{
+	padding-left:20px;
+}
+.button-sep{
+		display:inline-block;
+		width:0;
+		height:22px;
+		border-left:1px solid #ccc;
+		border-right:1px solid #fff;
+		vertical-align:middle;
+}
+
+.wi-linkbutton{
+	width:35px;
+}
+.wi-linkbutton2{
+	width:80px;
+}
+.wi-dialog{
+	padding:10px;
+}
+.wi-dialog-large{
+	width:500px;
+	height:300px;
+	padding:10px
+}
+.wi-dialog-large-noheight{
+	width:500px;
+	padding:10px
+}
+.wi-textbox{
+	width:200px
+}
+.wi-textbox-large{
+	width:400px;
+}
+.wi-searchbox{
+	width:200px;
+}
